@@ -18,3 +18,7 @@ framework/phonegap.jar
 framework/bin
 framework/assets/www/.DS_Store
 
+
+lib/ios/CordovaLib/CordovaLib.xcodeproj/xcuserdata/teszt.xcuserdatad/xcschemes/CordovaLib.xcscheme
+
+lib/ios/CordovaLib/CordovaLib.xcodeproj/xcuserdata/teszt.xcuserdatad/xcschemes/xcschememanagement.plist
